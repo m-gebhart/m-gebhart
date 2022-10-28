@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my hobby GitHub profile! Lots of exciting stuff to come!
 
 <!--
 **m-gebhart/m-gebhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
