@@ -1,16 +1,24 @@
-### Welcome to my hobby GitHub profile! 
-Lots of exciting stuff to come!
+### Welcome to my GitHub profile! 
 
-<a href="https://michael-gebhart.com"> Website </a>
+
+<ul>
+  <li> 🎓 <b>BA Game Programming student</b> at Cologne Game Lab and really-soon-to-be graduate! </li>
+  <li> 💭 My current focus is on <b>C++</b> as well as <b>Unreal Engine</b>. Other skills include Unity, C#, Javascript / HTML / CSS, PHP and more. Further experiences include Game Design, Production, Event Management and more. </li>
+  <li> 💻 Feel free to take a look at my portfolio website: <b><a href="https://michael-gebhart.com">michael-gebhart.com</a></b></li>
+</ul>
+
+### Highlight projects:
+
+<ul>
+  <li>Most recent project:<ul><li> 🌄 <a href="https://github.com/m-gebhart/PGP_OpenGL"><b>Procedural Generation Project</b></a> with C++ and OpenGL </li></ul></li>
+  <li>Unreal projects:<ul><li> 💣 <a href="https://github.com/m-gebhart/Mayhaemsters"><b>Mayhaemsters</b></a> - local multiplayer game</li><li><i> ⏳ more coming soon...</i></li></ul></li>
+  <li>Unity projects:<ul><li> 🪐 <a href="https://github.com/Bagira20/BigBanger"><b>The Big Banger</b></a> - AR educational game</li>
+    <li> 👾 <a href="https://github.com/m-gebhart/Home_Invaders"><b>Home Invaders</b></a> - online multiplayer prototype</li>
+    <li> 🎩 <a href="https://github.com/m-gebhart/A-Dystopian-Murder-Show"><b>A Dystopian Murder Show</b></a> - platforming game from my first semester </li>
+    </ul></li>
+</ul>
 
 <!--
-Website:
-
-Unreal projects:
-
-Unity:
-
-Other:
 
 <!--
 **m-gebhart/m-gebhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
