@@ -10,11 +10,11 @@
 ### Highlight projects:
 
 <ul>
-  <li>Graphics Programming:<ul><li> 🌄 <a href="https://github.com/m-gebhart/PGP_OpenGL"><b>Procedural Generation Project</b></a> with C++ and OpenGL </li></ul></li>
-  <li>Unreal projects:<ul><li> 💣 <a href="https://github.com/m-gebhart/Mayhaemsters"><b>Mayhaemsters</b></a> - local multiplayer game</li><li> 🪄&nbsp Magic vs. Monsters (<i>coming soon...</i>)</li></ul></li>
-  <li>Unity projects:<ul><li> 🪐 <a href="https://github.com/Bagira20/BigBanger"><b>The Big Banger</b></a> - AR educational game</li>
-    <li> 👾 <a href="https://github.com/m-gebhart/Home_Invaders"><b>Home Invaders</b></a> - online multiplayer prototype</li>
-    <li> 🎩 <a href="https://github.com/m-gebhart/A-Dystopian-Murder-Show"><b>A Dystopian Murder Show</b></a> - platforming game from my first semester </li>
+  <li>Graphics Programming:<ul><li> 🌄 <a href="https://github.com/m-gebhart/PGP_OpenGL"><b>Procedural Generation Project</b></a> (2022) C++ and OpenGL project </li></ul></li>
+  <li>Unreal projects:<ul><li> 💣 <a href="https://github.com/m-gebhart/Mayhaemsters"><b>Mayhaemsters</b></a> (2020) local multiplayer game</li><li> 🪄&nbsp Magic vs. Monsters (<i>WIP / coming soon...</i>)</li></ul></li>
+  <li>Unity projects:<ul><li> 🪐 <a href="https://github.com/Bagira20/BigBanger"><b>The Big Banger</b></a> (2021) AR educational game</li>
+    <li> 👾 <a href="https://github.com/m-gebhart/Home_Invaders"><b>Home Invaders</b></a> (2020) online multiplayer prototype</li>
+    <li> 🎩 <a href="https://github.com/m-gebhart/A-Dystopian-Murder-Show"><b>A Dystopian Murder Show</b></a> (2019) platforming game from my first semester </li>
     </ul></li>
 </ul>
 
