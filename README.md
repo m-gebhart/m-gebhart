@@ -12,9 +12,9 @@
 <ul>
   <li>Graphics Programming:<ul><li> 🌄 <a href="https://github.com/m-gebhart/PGP_OpenGL" target="_blank"><b>Procedural Generation Project</b></a> (2022) C++ and OpenGL project </li></ul></li>
   <li>Unreal projects:<ul>
-    <li> 👽 <a href="https://github.com/m-gebhart/sfas"><b>Alien Abduction Party</b></a> (<i>in development</i>) Search For A Star 2023 submission</li>
+    <li> 👽 <a href="https://github.com/m-gebhart/sfas"><b>Alien Pizza Party</b></a> (2023) Search For A Star 2023 submission</li>
     <li> 🪄&nbsp <a href="https://github.com/m-gebhart/Magic-Vs.-Monsters"><b>Magic vs. Monsters</b></a> (<i>development paused</i>) Combat and AI project</li>
-    <li> 💣 <a href="https://github.com/m-gebhart/Mayhaemsters" target="_blank"><b>Mayhaemsters</b></a> (2020) local multiplayer game</li></ul></li>
+    <li> 🐹 <a href="https://github.com/m-gebhart/Mayhaemsters" target="_blank"><b>Mayhaemsters</b></a> (2020) local multiplayer game</li></ul></li>
   <li>Unity projects:<ul><li> 🪐 <a href="https://github.com/Bagira20/BigBanger" target="_blank"><b>The Big Banger</b></a> (2021) AR educational game</li>
     <li> 👾 <a href="https://github.com/m-gebhart/Home_Invaders" target="_blank"><b>Home Invaders</b></a> (2020) online multiplayer prototype</li>
     <li> 🎩 <a href="https://github.com/m-gebhart/A-Dystopian-Murder-Show" target="_blank"><b>A Dystopian Murder Show</b></a> (2019) platforming game from my first semester </li>
