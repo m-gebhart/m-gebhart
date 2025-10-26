@@ -2,8 +2,9 @@
 
 
 <ul>
-  <li> 🎓 <b>BA Game Programming student</b> at Cologne Game Lab and really-soon-to-be graduate! </li>
-  <li> 💭 My current focus is on <b>C++</b> as well as <b>Unreal Engine</b>. Other skills include Unity, C#, Javascript / HTML / CSS, PHP and more. Further experiences include Game Design, Production, Event Management and more. </li>
+  <li> 🎓 <b>BA Game Programming graduate</b> from Cologne Game Lab</li>
+  <li> 💼 Currently employed at Abstraction Games B.V.</li>
+  <li> 💭 My focus is on <b>C++</b> as well as <b>Unreal Engine</b>. Other skills include Unity, C#, Javascript / HTML / CSS, PHP and more. Further experiences include Game Design, Production, Event Management and more. </li>
   <li> 💻 Feel free to take a look at my portfolio website: <b><a href="https://michael-gebhart.com" target="_blank">michael-gebhart.com</a></b></li>
 </ul>
 
